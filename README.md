@@ -1,1 +1,3 @@
 # online-medical-platform
+
+This projects portrays an online platform which can be used by patients, doctors and caregivers. The application is implemented using Java Spring REST services and ReactJS. It involves CRUD operations used on a database which includes medication, medication plans, and user details. In addition to that, the application also monitors patients' activities and sends notifications to their corresponding caregivers using RabbitMQ. Another feature consists of a pill dispenser programmed by doctors to inform patients about their medication plan intervals, with the use of RPC.
